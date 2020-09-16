@@ -1,0 +1,41 @@
+body{
+	background-color: black;
+	color: white;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+#buttonDiv{
+	height: 60px;
+	width: 100%;
+}
+
+#infoDiv{
+	height: 1100px;
+	width: 100%;
+	background-color: orange;
+	margin-top: 20px;
+	text-align: center;
+	color: black;
+}
+
+button{
+	height: 60px;
+	width: 33.2%;
+	text-align: center;
+}
+
+button:hover{
+	background-color: brown;
+}
+
+img{
+	margin: 30px;
+}
